@@ -1,5 +1,5 @@
 
-# Swiftly Convert
+# Swiftly Convert v1.0
 
 Swiftly Convert is a simple yet a very functional unit conversion app specially for iOS Devices. It is an user-friendly app built using Swift and SwiftUI. It allows user to easily convert units of measurements across categories such as length, weight and temperature and also helps to do some financial calculations like Simple interest calculations and Compound interest calculations. This version supports light and dark mode with a simple user interface.
 
