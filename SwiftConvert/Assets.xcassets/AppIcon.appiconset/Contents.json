@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "unit measurement.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "unit measurement 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "unit measurement 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
