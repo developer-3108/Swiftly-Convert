@@ -102,5 +102,5 @@ Hi, I'm Akshat Srivastava, a passionate iOS Developer currently pursuing a degre
 
 In addition to mobile app development, I've explored web development using HTML and CSS, and I'm working on various projects that you can find on my GitHub profile.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/akshat-srivastava07/) and [X (formaly Twitter)](https://x.com/developer_3108) or check out my projects on [GitHub](https://github.com/developer-3108).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/akshat-srivastava07/), [X (formaly Twitter)](https://x.com/developer_3108) and [Threads](https://www.threads.net/@developer_3108) or check out my projects on [GitHub](https://github.com/developer-3108).
 
