@@ -91,43 +91,43 @@ For those who want to test on a real iPhone:
 
 - **Home Page**
 
-![App Screenshot](https://github.com/user-attachments/assets/0e3b88c2-ed30-4f83-bc63-efb499589f73)
+<img src="https://github.com/user-attachments/assets/0e3b88c2-ed30-4f83-bc63-efb499589f73" alt="Home Page Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/8c289381-7c41-4ca2-bf42-cd1b0e44fede)
+<img src="https://github.com/user-attachments/assets/8c289381-7c41-4ca2-bf42-cd1b0e44fede" alt="Home Page Screenshot" width="300"/>
 
-- **Length Convertor**
+- **Length Converter**
 
-![App Screenshot](https://github.com/user-attachments/assets/5f00ae72-9c28-409e-850e-67b1ce502a7a)
+<img src="https://github.com/user-attachments/assets/5f00ae72-9c28-409e-850e-67b1ce502a7a" alt="Length Converter Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/391a29cf-8948-4db6-a42f-57858ec07530)
+<img src="https://github.com/user-attachments/assets/391a29cf-8948-4db6-a42f-57858ec07530" alt="Length Converter Screenshot" width="300"/>
 
 - **Simple Interest Calculator**
 
-![App Screenshot](https://github.com/user-attachments/assets/4bcc7b82-5555-4c5d-897a-d94b475c9dd7)
+<img src="https://github.com/user-attachments/assets/4bcc7b82-5555-4c5d-897a-d94b475c9dd7" alt="Simple Interest Calculator Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/014ca14a-c193-4278-99de-5aa0f318c84d)
+<img src="https://github.com/user-attachments/assets/014ca14a-c193-4278-99de-5aa0f318c84d" alt="Simple Interest Calculator Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/041842f4-b890-4725-9e8e-f811602b5ad4)
+<img src="https://github.com/user-attachments/assets/041842f4-b890-4725-9e8e-f811602b5ad4" alt="Simple Interest Calculator Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/2296ff4c-24c9-4867-a08e-74209c1ed549)
+<img src="https://github.com/user-attachments/assets/2296ff4c-24c9-4867-a08e-74209c1ed549" alt="Simple Interest Calculator Screenshot" width="300"/>
 
 - **Settings Page (App Theme Customization)**
 
-![App Screenshot](https://github.com/user-attachments/assets/4bf656a5-9901-4025-a864-3cbcb536a13b)
+<img src="https://github.com/user-attachments/assets/4bf656a5-9901-4025-a864-3cbcb536a13b" alt="Settings Page Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/ebde4f48-dd6c-4415-9c73-02338cd5b6d4)
+<img src="https://github.com/user-attachments/assets/ebde4f48-dd6c-4415-9c73-02338cd5b6d4" alt="Settings Page Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/c9af45b0-a85d-4427-82c6-719b70854cdf)
+<img src="https://github.com/user-attachments/assets/c9af45b0-a85d-4427-82c6-719b70854cdf" alt="Settings Page Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/1cd380b9-aff4-4d15-b2e6-b74c1f590629)
+<img src="https://github.com/user-attachments/assets/1cd380b9-aff4-4d15-b2e6-b74c1f590629" alt="Settings Page Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/a6759067-d626-4ea1-8e2d-cfd540f9d22a)
+<img src="https://github.com/user-attachments/assets/a6759067-d626-4ea1-8e2d-cfd540f9d22a" alt="Settings Page Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/026e20b3-7ad5-4390-aa0d-6c05cc605d67)
+<img src="https://github.com/user-attachments/assets/026e20b3-7ad5-4390-aa0d-6c05cc605d67" alt="Settings Page Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/5e55aedf-9cec-41ac-b3d4-d5da78ec7d57)
+<img src="https://github.com/user-attachments/assets/5e55aedf-9cec-41ac-b3d4-d5da78ec7d57" alt="Settings Page Screenshot" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/1eca8199-ff93-4ddc-82e7-b37383b3670b)
+<img src="https://github.com/user-attachments/assets/1eca8199-ff93-4ddc-82e7-b37383b3670b" alt="Settings Page Screenshot" width="300"/>
 
 ## Fututre Improvements
 
