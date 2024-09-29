@@ -95,6 +95,7 @@ For those who want to test on a real iPhone:
 
 - In order to toggle between light and dark mode you need to switch appearance of the device in the appearance section of the device settings.
 - The app is not refined to various screen sizes so it may occur issues in viewing on your screen. For best screen viewing experience, on simulator select **iPhone 16 Pro** or **iPhone 15 Pro**.
+- For the latest version, check out [v2.0](https://github.com/developer-3108/Swiftly-Convert/blob/v2.0/README.md)
 
 ## About Me
 
