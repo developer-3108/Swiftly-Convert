@@ -61,27 +61,26 @@ For those who want to test on a real iPhone:
 
 - App Starting Page 
 
-![App Screenshot](https://github.com/user-attachments/assets/cb25fde9-2cdf-4940-ab6c-a78efbdd4e74)
+<img src="https://github.com/user-attachments/assets/cb25fde9-2cdf-4940-ab6c-a78efbdd4e74" alt="App Starting Page" width="300"/>
 
 - Home Page of App
 
-![App Screenshot](https://github.com/user-attachments/assets/efa975af-a9fe-4bb6-bb95-6a4702baf414)
+<img src="https://github.com/user-attachments/assets/efa975af-a9fe-4bb6-bb95-6a4702baf414" alt="Home Page of App" width="300"/>
 
 - Banking Calculation Page
 
-![App Screenshot](https://github.com/user-attachments/assets/35323f2a-b312-4d72-8a8d-94dd8455c9c2)
+<img src="https://github.com/user-attachments/assets/35323f2a-b312-4d72-8a8d-94dd8455c9c2" alt="Banking Calculation Page" width="300"/>
 
 - Unit Conversion Page
 
-![App Screenshot](https://github.com/user-attachments/assets/ef3bd4a9-4f4b-499a-8e3a-1bc1515b1ce5)
+<img src="https://github.com/user-attachments/assets/ef3bd4a9-4f4b-499a-8e3a-1bc1515b1ce5" alt="Unit Conversion Page" width="300"/>
 
 - Dark Mode
 
-![App Screenshot](https://github.com/user-attachments/assets/849ad6aa-4740-4b23-982b-4e442f8a5cb7)
+<img src="https://github.com/user-attachments/assets/849ad6aa-4740-4b23-982b-4e442f8a5cb7" alt="Dark Mode" width="300"/>
+<img src="https://github.com/user-attachments/assets/3f3a5477-e820-48dc-9c96-ee96c67a98eb" alt="Dark Mode" width="300"/>
+<img src="https://github.com/user-attachments/assets/b590e648-bcbe-4214-a0ba-e3dc7462d8aa" alt="Dark Mode" width="300"/>
 
-![App Screenshot](https://github.com/user-attachments/assets/3f3a5477-e820-48dc-9c96-ee96c67a98eb)
-
-![App Screenshot](https://github.com/user-attachments/assets/b590e648-bcbe-4214-a0ba-e3dc7462d8aa)
 ## Fututre Improvements
 
 - Add more unit like area, volume, speed, etc.
