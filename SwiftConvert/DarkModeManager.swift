@@ -1,10 +1,3 @@
-//
-//  DarkModeManager.swift
-//  SwiftConvert
-//
-//  Created by Akshat Srivastava on 24/09/24.
-//
-
 import SwiftUI
 
 struct DarkModeManager: View {

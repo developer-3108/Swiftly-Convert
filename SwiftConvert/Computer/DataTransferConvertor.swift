@@ -1,10 +1,3 @@
-//
-//  DataTransferConvertor.swift
-//  SwiftConvert
-//
-//  Created by Akshat Srivastava on 25/09/24.
-//
-
 import SwiftUI
 
 struct DataTransferConvertor: View {
@@ -27,7 +20,7 @@ struct DataTransferConvertor: View {
                 .ignoresSafeArea()
             
                     VStack{
-                        Text("Data Transfer")
+                        Text("Data Transfer Speed")
                             .font(.largeTitle)
                             .fontWeight(.bold)
                             .foregroundStyle(.fontColor1)
@@ -48,18 +41,18 @@ struct DataTransferConvertor: View {
                                             Text(option)
                                         }
                                     }
+                                    
                                     .pickerStyle(.segmented)
-                                    .frame(maxWidth: .infinity)
+                                    .frame(width: .infinity)
                                     .background(RoundedRectangle(cornerRadius:8)
                                         .fill(.fontColor2.opacity(0.2)))
-                                    .font(.title2)
 
                                     
                                     TextField("From", text: $input)
                                         .frame(maxWidth: .infinity)
                                         .keyboardType(.decimalPad)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -82,7 +75,8 @@ struct DataTransferConvertor: View {
                                             Text(option)
                                         }
                                     }
-                                    .frame(maxWidth: .infinity)
+                                    .font(.title)
+                                    .frame(width: .infinity)
                                     .pickerStyle(.segmented)
                                     .background(RoundedRectangle(cornerRadius:8)
                                         .fill(.fontColor2.opacity(0.2)))
@@ -90,7 +84,7 @@ struct DataTransferConvertor: View {
                                     TextField("To", text: $outputDataTransfer)
                                         .frame(maxWidth: .infinity)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -141,6 +135,8 @@ struct DataTransferConvertor: View {
                                     }
                                     .padding(.vertical)
                                 }
+                                .frame(width: .infinity)
+                                .frame(maxWidth: 750)
                                 .padding(.top)
                                 .vTop()
                                 .padding(.horizontal)

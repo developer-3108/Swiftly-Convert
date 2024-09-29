@@ -1,10 +1,3 @@
-//
-//  StorageConvertor.swift
-//  SwiftConvert
-//
-//  Created by Akshat Srivastava on 25/09/24.
-//
-
 import SwiftUI
 
 struct StorageConvertor: View {
@@ -27,7 +20,7 @@ struct StorageConvertor: View {
                 .ignoresSafeArea()
             
                     VStack{
-                        Text("Storage Convertor")
+                        Text("Storage")
                             .font(.largeTitle)
                             .fontWeight(.bold)
                             .foregroundStyle(.fontColor1)
@@ -59,7 +52,7 @@ struct StorageConvertor: View {
                                         .frame(maxWidth: .infinity)
                                         .keyboardType(.decimalPad)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -90,7 +83,7 @@ struct StorageConvertor: View {
                                     TextField("To", text: $outputStorage)
                                         .frame(maxWidth: .infinity)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -141,6 +134,8 @@ struct StorageConvertor: View {
                                     }
                                     .padding(.vertical)
                                 }
+                                .frame(width: .infinity)
+                                .frame(maxWidth: 750)
                                 .padding(.top)
                                 .vTop()
                                 .padding(.horizontal)

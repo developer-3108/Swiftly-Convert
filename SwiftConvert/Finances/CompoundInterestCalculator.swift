@@ -1,10 +1,3 @@
-//
-//  CompoundInterestCalculator.swift
-//  SwiftConvert
-//
-//  Created by Akshat Srivastava on 23/09/24.
-//
-
 import SwiftUI
 
 struct CompoundInterestCalculator: View {
@@ -51,7 +44,7 @@ struct CompoundInterestCalculator: View {
                                 TextField("Amount", text: $amount)
                                     .keyboardType(.decimalPad)
                                     .padding()
-                                    .font(.title)
+                                    .font(.title2)
                                     .fontWeight(.medium)
                                     .overlay(
                                         RoundedRectangle(cornerRadius: 15)
@@ -69,7 +62,7 @@ struct CompoundInterestCalculator: View {
                                 TextField("Interest", text: $interest)
                                     .keyboardType(.decimalPad)
                                     .padding()
-                                    .font(.title)
+                                    .font(.title2)
                                     .fontWeight(.medium)
                                     .overlay(
                                         RoundedRectangle(cornerRadius: 15)
@@ -196,7 +189,7 @@ struct CompoundInterestCalculator: View {
                                     
                                     TextField("", text: $amount)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -213,7 +206,7 @@ struct CompoundInterestCalculator: View {
                                     
                                     TextField("", text: $temp)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -230,7 +223,7 @@ struct CompoundInterestCalculator: View {
                                     
                                     TextField("", text: $finalAmount)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -239,6 +232,8 @@ struct CompoundInterestCalculator: View {
                                         )
                                 }
                             }
+                            .frame(width: .infinity)
+                            .frame(maxWidth: 750)
                             .padding(.vertical)
                             .vTop()
                             .padding(.horizontal)
@@ -292,5 +287,5 @@ func compoundIntterest(principal: Double, interestRate: Double,  yy: Double, mm:
 
 #Preview {
     CompoundInterestCalculator()
-        .environmentObject(ColorThemeManager()) 
+        .environmentObject(ColorThemeManager())
 }

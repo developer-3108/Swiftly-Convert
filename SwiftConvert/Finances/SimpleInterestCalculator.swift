@@ -1,10 +1,3 @@
-//
-//  SimpleInterestCalculator.swift
-//  SwiftConvert
-//
-//  Created by Akshat Srivastava on 23/09/24.
-//
-
 import SwiftUI
 
 struct SimpleInterestCalculator: View {
@@ -49,7 +42,7 @@ struct SimpleInterestCalculator: View {
                                 TextField("Amount", text: $amount)
                                     .keyboardType(.decimalPad)
                                     .padding()
-                                    .font(.title)
+                                    .font(.title2)
                                     .fontWeight(.medium)
                                     .overlay(
                                         RoundedRectangle(cornerRadius: 15)
@@ -67,7 +60,7 @@ struct SimpleInterestCalculator: View {
                                 TextField("Interest", text: $interest)
                                     .keyboardType(.decimalPad)
                                     .padding()
-                                    .font(.title)
+                                    .font(.title2)
                                     .fontWeight(.medium)
                                     .overlay(
                                         RoundedRectangle(cornerRadius: 15)
@@ -176,7 +169,7 @@ struct SimpleInterestCalculator: View {
                                     
                                     TextField("", text: $amount)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -193,7 +186,7 @@ struct SimpleInterestCalculator: View {
                                     
                                     TextField("", text: $temp)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -210,7 +203,7 @@ struct SimpleInterestCalculator: View {
                                     
                                     TextField("", text: $finalAmount)
                                         .padding()
-                                        .font(.title)
+                                        .font(.title2)
                                         .fontWeight(.medium)
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 15)
@@ -219,6 +212,8 @@ struct SimpleInterestCalculator: View {
                                         )
                                 }
                             }
+                            .frame(width: .infinity)
+                            .frame(maxWidth: 750)
                             .padding(.vertical)
                             .vTop()
                             .padding(.horizontal)
@@ -246,5 +241,5 @@ func simpleInterest(principal: Double, interestRate: Double, yy: Double, mm: Dou
 
 #Preview {
     SimpleInterestCalculator()
-        .environmentObject(ColorThemeManager()) 
+        .environmentObject(ColorThemeManager())
 }

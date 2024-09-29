@@ -1,18 +1,18 @@
-//
-//  DemoPageTest.swift
-//  SwiftConvert
-//
-//  Created by Akshat Srivastava on 24/09/24.
-//
-
 import SwiftUI
 
 struct DemoPageTest: View {
+    @EnvironmentObject var colorThemeManager: ColorThemeManager
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ZStack{
+            LinearGradient(colors: colorThemeManager.gradientColors(),
+                           startPoint: .topTrailing,
+                           endPoint: .bottom)
+            .ignoresSafeArea()
+        }
     }
 }
 
 #Preview {
     DemoPageTest()
+        .environmentObject(ColorThemeManager())
 }

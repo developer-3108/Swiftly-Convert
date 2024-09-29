@@ -1,24 +1,27 @@
-//
-//  ContentView.swift
-//  SwiftConvert
-//
-//  Created by Akshat Srivastava on 22/09/24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
+    @State private var selectedTab: Int = 0
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        TabView(selection: $selectedTab) {
+            HomePage()
+                .tabItem {
+                    Image(systemName: "house.fill")
+                    Text("Home")
+                }
+                .tag(0)
+            
+            SettingsPage()
+                .tabItem {
+                    Image(systemName: "gearshape.fill")
+                    Text("Settings")
+                }
+                .tag(1)
         }
-        .padding()
     }
 }
 
 #Preview {
     ContentView()
+        .environmentObject(ColorThemeManager())
 }
