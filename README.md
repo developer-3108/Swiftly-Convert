@@ -149,7 +149,7 @@ For those who want to test on a real iPhone:
 - **Performance and System requirements**: For the best performance, ensure that your device is running the latest version of iOS or macOS. Running the app on outdated software may lead to stability issues and diminished functionality.
 - **User Data Storage**: Conversion history and user preferences are stored locally on the device to enhance privacy and security. No personal information is transmitted to external servers.
 - **Feedback and Support**: We encourage users to report any bugs or issues encountered while using the application. User feedback is crucial for continuous improvement and future updates.
-- For the latest version, check out [v1.0](https://github.com/developer-3108/Swiftly-Convert/blob/v1.0/README.md)
+- For the previous version, check out [v1.0](https://github.com/developer-3108/Swiftly-Convert/blob/v1.0/README.md)
 ## About Me
 
 Hello, I am Akshat Srivastava, an enthusiastic iOS developer currently pursuing a degree in Computer Science. I specialize in developing efficient and user-centric applications utilizing Swift and SwiftUI. I am committed to continuous learning and eager to engage in innovative projects that push the boundaries of mobile application development.
