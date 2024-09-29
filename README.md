@@ -154,4 +154,4 @@ For those who want to test on a real iPhone:
 
 Hello, I am Akshat Srivastava, an enthusiastic iOS developer currently pursuing a degree in Computer Science. I specialize in developing efficient and user-centric applications utilizing Swift and SwiftUI. I am committed to continuous learning and eager to engage in innovative projects that push the boundaries of mobile application development.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshat-srivastava07/) and [X (formaly Twitter)](https://x.com/developer_3108) or check out my projects on [GitHub](https://github.com/developer-3108).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshat-srivastava07/), [X (formaly Twitter)](https://x.com/developer_3108) and [Threads](https://www.threads.net/@developer_3108) or check out my projects on [GitHub](https://github.com/developer-3108).
